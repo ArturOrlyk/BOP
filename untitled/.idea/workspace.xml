@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="977c4380-0eee-4ef2-98ff-62d953a5a134" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/betman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8ff9a731-d1c7-4426-944d-a47ab91e3d8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../betman/betman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../betman/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../betman/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1j2jtpkxP0134bWgROVUn9ZS2e1" />
+  <component name="ProjectId" id="1jMhiYgmWWJfoJQPUsI76u4XgeQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,18 +28,18 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="977c4380-0eee-4ef2-98ff-62d953a5a134" name="Default Changelist" comment="" />
-      <created>1603009297067</created>
+      <changelist id="8ff9a731-d1c7-4426-944d-a47ab91e3d8d" name="Default Changelist" comment="" />
+      <created>1603619995903</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603009297067</updated>
+      <updated>1603619995903</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="376" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1603619891993">
+    <state x="343" y="49" key="search.everywhere.popup" timestamp="1603620121275">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="376" y="188" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1603619891993" />
+    <state x="343" y="49" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1603620121275" />
   </component>
 </project>
